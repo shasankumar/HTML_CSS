@@ -1,0 +1,36 @@
+HTML - Hyper Text Markup Language
+CSS - Cascading Style Sheets
+
+hovers, transition and shadows
+
+hover  - it shows the bg color when the cursor is kept at trhat button
+active - it shows the bg color when the button is clicked 
+
+opacity - a property used to control the transparency level of an element, ranges from 0 to 1.
+
+chrome dev tools - can be seen in webpage by right clicking and select the inspect button
+css box model - says how much an element take space
+
+<!DOCTYPE html> - it says the browser to use modern version of html nad to activate live server
+---
+Common Framework of html
+
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body></body>
+</html>
+---
+
+some void elements - img, link,input.
+
+object-fit(css)- property specifies how an element's content should be resized to fit its container
+object-position(css) - property accepts values similar to the background-position property, including keywords, lengths
+
+inline block we used in youtube.html because usually paragraphs are block element(which means even if we write two words, it will take the whole space from left to right side of the screen)
+
+<img src="thumbnails/channel-1.jpeg"
+
+Diff types of postions - fixed, relative, absolute, static(default).
+
+want to learn - nav, main, header, section

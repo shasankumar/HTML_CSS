@@ -1,0 +1,152 @@
+.subscribe_button {
+    background-color: red;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 110px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: opacity 0.15s;
+}
+.subscribe_button:hover{
+    opacity: 0.8;
+}
+.subscribe_button:active{
+    opacity:0.5;
+}
+.join_button {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.15s, color 0.15s;
+}
+.join_button:hover{
+    background-color: blue;
+    color:white
+}
+.join_button:active{
+    opacity:0.6;
+}
+.tweet_button {
+    background-color: rgb(12, 12, 236);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    height: 35px;
+    width: 75px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+.tweet_button:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+}
+.request_button {
+    background-color: black;
+    color:white;
+    height: 40px;
+    width: 120px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.request_button:hover{
+    opacity: 0.8;
+}
+.add_to_cart_button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 35px;
+    width: 150px;
+    border-radius: 17.5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.add_to_cart_button:hover{
+    opacity: 0.8;
+}
+.sign_up_button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+.sign_up_button:hover{
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.7)
+}
+.get_started_button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    height: 45px;
+    width: 130px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 10px;
+    transition: opacity 0.15s;
+}
+.get_started_button:hover{
+    opacity: 0.8;
+}
+.Download_button {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: 2px solid rgb(108, 117, 125);
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.15s, color 0.15s;
+}
+.download_button:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+.apply_button {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    height: 50px;
+    width: 250px;
+    font-size: 16px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 10px;
+    font-weight: bold;
+    transition: background-color 0.15s;
+}
+.apply_button:hover{
+    background-color: darkblue;
+}
+.save_button {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border: 2px solid rgb(10, 102, 194);
+    height: 50px;
+    width: 100px;
+    font-size: 16px;
+    cursor: pointer; 
+    border-radius: 25px;
+    transition: opacity 0.15s;
+}
+.save_button:hover{
+    opacity: 0.8;
+}
